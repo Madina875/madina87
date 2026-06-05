@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Madina
 
 🎯 mid-Developer in backend based JS and Nest
-🎯 strong junior-dev in front
+🎯 strong junior-dev in front Next
 passionate about building responsive, user-friendly, and scalable web applications.  
 💡 I enjoy transforming ideas into real-world projects using modern web technologies and clean, maintainable code.
 
